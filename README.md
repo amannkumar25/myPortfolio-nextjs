@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+border-[#33353F]
+
+ <div className="w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
+            <Image
+              src="/images/heroImage.webp"
+              alt="hero image"
+              className="absolute sm:hidden top-1/2 left-1/2 bg-contain"
+              width={300}
+              height={300}
+            />
+          </div>
