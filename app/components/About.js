@@ -61,7 +61,7 @@ const About = () => {
             involves seamlessly blending creativity with functionality,
             translating ideas into responsive and visually captivating websites.
             With a keen eye for design and a commitment to staying at the
-            forefront of web development trends, I strive to create
+            fore front of web development trends, I strive to create
             user-centric, intuitive interfaces that leave a lasting impression.
             Let's transform your digital vision into a stunning reality
             together.
