@@ -56,8 +56,8 @@ const About = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             Passionate about crafting exceptional web experiences, I am a
-            Frontend Web developer with expertise in HTML, CSS, and JavaScript,
-            complemented by proficiency in React and Bootstrap. My journey
+            Frontend Web developer with expertise in HTML, CSS, and JavaScript
+            complemented by proficiency in React and NextJS. My journey
             involves seamlessly blending creativity with functionality,
             translating ideas into responsive and visually captivating websites.
             With a keen eye for design and a commitment to staying at the
