@@ -34,11 +34,6 @@ const HeroSection = () => {
             Aspiring web developer with a passion for crafting engaging and
             user-centric digital experiences.
           </p>
-          <div>
-            <button className="px-6 py-3 w-full sm:w-fit rounded-lg bg-[#9b59b6] hover:bg-slate-800 text-white mt-6">
-              Download CV
-            </button>
-          </div>
         </motion.div>
         <div className="col-span-5 place-self-center mt-4 lg:mt-0"></div>
       </div>
