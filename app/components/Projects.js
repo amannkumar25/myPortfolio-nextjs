@@ -6,12 +6,12 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
+    title: "Portfolio Website - NextJS",
     description:
       "Next.js portfolio showcasing my skills and projects, delivering a seamless and interactive user experience.",
     image: "/images/projects/1.webp",
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/amannkumar25/myPortfolio-nextjs",
+    previewUrl: "https://my-portfolio-nextjs-psi.vercel.app/",
   },
   {
     id: 2,
@@ -46,8 +46,8 @@ const projectsData = [
     description:
       "Built a dynamic and responsive Todo List application using Next.js, combining the power of React ",
     image: "/images/projects/5.webp",
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/amannkumar25/todoList-nextjs",
+    previewUrl: "https://todo-list-nextjs-eta.vercel.app/",
   },
   {
     id: 6,
